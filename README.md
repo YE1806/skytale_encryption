@@ -4,7 +4,7 @@ Encrypt/Decrypt text with Skytale method
 ## Usage
 Clone repository:
 ````
-git clone
+git clone https://github.com/YE1806/skytale_encryption.git
 cd skytale_encryption
 ````
 For Encryption:
